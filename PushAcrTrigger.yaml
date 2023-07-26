@@ -1,6 +1,6 @@
 resources:
   containers:
-  - container: nginx
+    container: nginx
     type: ACR
     azureSubscription: MY-Azure-connection
     resourceGroup: test-trigger
